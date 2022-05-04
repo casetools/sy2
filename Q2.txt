@@ -1,0 +1,6 @@
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a project named "CTISA". Write a program to merge two arrays. Write a unit test for the same.
+3.	Save your progress in a local repository.
+4.	Create a new branch named your roll number. eg. 19000.
+5.	Push the newly create branch to the remote repo.
+
