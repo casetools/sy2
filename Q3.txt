@@ -1,0 +1,6 @@
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a project named "CTISA". Using selenium webdriver open google.com. Search for your mail service provider and click on the link from search results.
+    Navigate to accounts section and login to your account. (While uploading the solution keep the username and password field blank).
+3.  Save your progress in a local repository.
+4.	Create a new branch named your roll number. eg. 19000.
+5.	Push the newly create branch to the remote repo.
