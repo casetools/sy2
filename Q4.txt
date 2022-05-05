@@ -1,0 +1,6 @@
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a project named "CTISA". Create a class name “Calculator”. Write a program of your choice, and write a unit test for the same. 
+3.	Generate a proper java documentation(in HTML format) for the above class.
+4.	Save your progress in a local repository.
+5.	Create a new branch named your roll number. eg. 19000.
+6.	Push the newly create branch to the remote repo.
