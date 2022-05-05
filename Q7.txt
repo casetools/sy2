@@ -1,0 +1,6 @@
+1.	Create empty files “one.txt”, “two.txt”, “three.txt” (using command).
+2.	 Write “Hello World” in one.txt. 
+3.	Add “one.txt”, “two.txt” it to the staging index and only commit “one.txt” with a suitable message. Confirm the operation by checking commit history.
+4.	Remove “two.txt” from staging area.
+5.	Edit content of “one.txt” to “Hello World Modified”, and commit again. Revert back to previous version wherein the content read “Hello World”.
+6.	Revert again to the new version which read “Hello World Modified”.
