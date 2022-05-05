@@ -1,0 +1,5 @@
+1.	Using Selenium IDE, Create a project named "CTISA" to run automation test on “https://www.javatpoint.com”. Create a test named “IDETest”. 
+2.	Use Selenese commands to Open any URL of your choice. Increase the window size if required. Perform atleast 5 steps of navigation.
+3.	Save your progress in a local repository.
+4.	Create a new branch named your roll number. eg. 19000.
+5.	Push the newly create branch to the remote repo.
