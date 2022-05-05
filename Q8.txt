@@ -1,0 +1,2 @@
+Using selenium IDE. Record steps to open google.com. Search for w3schools and click on the link from search results. Click on javascript/Search for javascript tutorial. 
+Click on JS Objects. Click on previous button. Click on try it yourself.
